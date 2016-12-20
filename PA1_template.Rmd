@@ -1,6 +1,6 @@
 title: "Reproducible Research: Peer Assessment 1"
-author: "Matthew Bender"
-date: "July 11th 2015"
+author: "Nitin Sethi"
+date: "DEC 20th 2016"
 output:
   html_document:
     keep_md: true
